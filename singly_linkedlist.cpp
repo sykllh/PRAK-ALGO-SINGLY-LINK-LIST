@@ -97,5 +97,9 @@ public:
         {
             cout << "\nList Kosong\n";
         }
+        else
+        {
+            cout
+        }
     }
 }
