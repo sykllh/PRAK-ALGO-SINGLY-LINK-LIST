@@ -91,5 +91,11 @@ public:
         return true;
     }
 
-    void traverse
+    void traverse()
+    {
+        if (listEmpty())
+        {
+            cout << "\nList Kosong\n";
+        }
+    }
 }
