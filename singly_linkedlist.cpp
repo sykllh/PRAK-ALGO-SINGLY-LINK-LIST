@@ -25,5 +25,6 @@ public:
         cin >> nim;
 
         Node *nodeBaru = new Node;
+        nodeBaru->noMhs = nim;
     }
 }
